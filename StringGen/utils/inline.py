@@ -3,23 +3,15 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from config import SUPPORT_CHAT
 
 
-keyboard = InlineKeyboardButton("ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱꜱɪᴏɴ ✨", callback_data="gensession")]
-
-    home_buttons = [
-        generate_single_button,
-        [InlineKeyboardButton(text="ʀᴇᴛᴜʀɴ ʜᴏᴍᴇ 🏠", callback_data="home")]
-    ]
-
-    generate_button = [generate_single_button]
-
-    buttons = [
-        generate_single_button,
-        [InlineKeyboardButton("ʙᴏᴛ ꜱᴛᴀᴛᴜꜱ ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛꜱ 🌿", url="https://t.me/All_SANATANI_BOT")],
+keyboard = InlineKeyboardMarkup(
+    [
+        [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="gensession")],
         [
-            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ❔", callback_data="help"),
-            InlineKeyboardButton("ᴀʙᴏᴜᴛ 🎪", callback_data="about")
+            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
+            InlineKeyboardButton(
+                text="sᴏᴜʀᴄᴇ", url="https://github.com/AnonymousX1025/StringGenBot"
+            ),
         ],
-        [InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ❄️", url="https://t.me/All_SANATANI_BOT")],
     ]
 )
 
