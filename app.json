@@ -11,7 +11,7 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://github.com/PROFESSOR-SOURABH/STRING-GEN2",
+    "repository": "https://github.com/akdfslftqoetepxvxmzcsibsbm40769374/STRING-GEN",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
