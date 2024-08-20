@@ -1,22 +1,20 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
+    ──「 ɴxᴛ Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
 </h2>
 
 <p align="center">
   <img src="https://te.legra.ph/file/07e5b7d11e3a834ad3826.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
-━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/PROFESSOR-SOURABH/STRING-GEN2/stargazers"><img src="https://img.shields.io/github/stars/PROFESSOR-SOURABH/STRING-GEN2?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/PROFESSOR-SOURABH/STRING-GEN2/network/members"> <img src="https://img.shields.io/github/forks/PROFESSOR-SOURABH/STRING-GEN2?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-<a href="https://github.com/PROFESSOR-SOURABH/STRING-GEN2/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
+<a href="https://github.com/PROFESSOR-SOURABH/STRING-GEN2/stargazers"><img src="https://img.shields.io/github/stars/Fakecheater77x/NXT-STRING_GEN?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
+<a href="https://github.com/Fakecheater77x/NXT-STRING_GEN/network/members"> <img src="https://img.shields.io/github/forks/Fakecheater77x/NXT-STRING_GEN?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/Fakecheater77x/NXT-STRING_GEN/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://github.com/PROFESSOR-SOURABH/STRING-GEN2/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/PROFESSOR-SOURABH/STRING-GEN2?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/Fakecheater77x/NXT-STRING_GEN/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/Fakecheater77x/NXT-STRING_GEN?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -33,14 +31,14 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀ�
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/akdfslftqoetepxvxmzcsibsbm40769374/STRING-GEN"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Fakecheater77x/NXT-STRING_GEN"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/PROFESSOR-SOURABH/STRING-GEN2/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Fakecheater77x/NXT-STRING_GEN/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -76,10 +74,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+f37Lk-OMx4tmOGJl"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/WE_NXT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
