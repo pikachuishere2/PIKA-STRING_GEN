@@ -6,17 +6,17 @@ from config import SUPPORT_CHAT
 keyboard = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton(text="⦿ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ 💕
-                                    ⦿ᴛʜɪs ʙᴏᴛ ɪs ᴍᴀᴅᴇ ʙʏ ᴅᴇsᴛʀᴏʏᴇʀ 🍁
-                                    ⦿ᴛʜɪs ɪs ʙᴇsᴛ ɴᴅ sᴀғᴇsᴛ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ 🍂
-                                    ⦿ᴛʜɴǫ ғᴏʀ ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ..🌷", callback_data="gensession")
+                                    ⦿ ᴛʜɪs ʙᴏᴛ ɪs ᴍᴀᴅᴇ ʙʏ ᴅᴇsᴛʀᴏʏᴇʀ 🍁
+                                    ⦿ ᴛʜɪs ɪs ʙᴇsᴛ ɴᴅ sᴀғᴇsᴛ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ 🍂
+                                    ⦿ ᴛʜɴǫ ғᴏʀ ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ..🌷", callback_data="gensession")
                 ],
                 [
-                    InlineKeyboardButton("⦿ sᴜᴘᴘᴏʀᴛ ⦿", url="https://t.me/+qYRBJgZsARpkNWJl"),
-                    InlineKeyboardButton("⦿ ᴜᴘᴅᴀᴛᴇ ⦿", url="https://t.me/PROFESSOR_77XX")
+                    InlineKeyboardButton("⦿ ✨sᴜᴘᴘᴏʀᴛ🥀 ⦿", url="https://t.me/+qYRBJgZsARpkNWJl"),
+                    InlineKeyboardButton("⦿ ❄ᴜᴘᴅᴀᴛᴇ💕 ⦿", url="https://t.me/PROFESSOR_77XX")
                 ],
                 [
                     
-                    InlineKeyboardButton("⦿ᴘʀᴏғᴇssᴏʀ⦿", url="https://t.me/PROFESSOR_77X"
+                    InlineKeyboardButton("⦿🍁ᴏᴡɴᴇʀ🫧⦿", url="https://t.me/PROFESSOR_77X"
             ),
         ],
     ]
