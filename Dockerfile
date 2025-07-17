@@ -21,4 +21,4 @@ RUN curl -sSL https://pypi.org
 RUN pip3 install --no-cache-dir -U -r requirements.txt --verbose
 
 COPY . .
-CMD ["python3", "main.py"]
+CMD ["python3", "main"]
