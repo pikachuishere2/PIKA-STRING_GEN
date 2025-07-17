@@ -5,6 +5,7 @@ COPY requirements.txt .
 # Install system dependencies
 RUN apt-get update && apt-get install -y \
     git \
+    curl \
     libopencv-dev \
     libfreetype6-dev \
     libpng-dev \
@@ -13,12 +14,11 @@ RUN apt-get update && apt-get install -y \
 # Verify Python and pip versions
 RUN python3 --version && pip3 --version
 
-# Check network connectivity
-RUN ping -c 4 pypi.org
-RUN curl -sSL https://github.com
+# Check network connectivity with curl
+RUN curl -sSL https://pypi.org
 
-# Install Python dependencies
+# Install Python dependencies with verbose output
 RUN pip3 install --no-cache-dir -U -r requirements.txt --verbose
 
 COPY . .
-CMD ["python3", "bash" ,"start"]
+CMD ["python3", "bash" , "start"]
