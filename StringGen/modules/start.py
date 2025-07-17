@@ -1,8 +1,8 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from StringGen import Anony
-from StringGen.utils import add_served_user, keyboard
+from FADEDSTRING import Anony
+from FADEDSTRING.utils import add_served_user, keyboard
 
 
 @Anony.on_message(filters.command("start") & filters.private & filters.incoming)

@@ -1,4 +1,4 @@
-from StringGen import db
+from FADEDSTRING import db
 
 usersdb = db.users
 

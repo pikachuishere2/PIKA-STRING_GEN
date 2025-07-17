@@ -2,8 +2,8 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from config import OWNER_ID
-from StringGen import Anony
-from StringGen.utils import get_served_users
+from FADEDSTRING import Anony
+from FADEDSTRING.utils import get_served_users
 
 
 @Anony.on_message(filters.command(["stats", "users"]) & filters.user(OWNER_ID))
