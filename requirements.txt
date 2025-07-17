@@ -1,10 +1,3 @@
-motor==3.2.0
-pyromod==2.0.0
-oldpyro==0.1.0
-pyrogram==2.0.106
-python-dotenv==1.0.0
-telethon==1.28.5
-tgcrypto==1.2.5
 flask
 flask_restful
 aiohttp
@@ -30,5 +23,3 @@ speedtest-cli==2.1.3
 tgcrypto 
 telegraph
 uwuify
-Flask==2.0.1
-requests==2.26.0
