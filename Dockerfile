@@ -1,12 +1,7 @@
-FROM nikolaik/python-nodejs:python3.9-nodejs18
-
-RUN apt-get update \
-    && apt-get install -y --no-install-recommends ffmpeg \
-    && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
-
-COPY . /app/
-WORKDIR /app/
+FROM python:3.9-slim
+WORKDIR /app
+COPY requirements.txt .
+RUN python3 --version
+RUN pip3 --version
+RUN ping -c 4 pypi.org
 RUN pip3 install --no-cache-dir -U -r requirements.txt
-
-CMD bash start
