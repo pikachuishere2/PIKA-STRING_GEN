@@ -11,7 +11,7 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://github.com/Adithakur008/DESTROYER-STRING_GEN",
+    "repository": "https://github.com/pikachuishere2/PIKA-STRING_GEN",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
