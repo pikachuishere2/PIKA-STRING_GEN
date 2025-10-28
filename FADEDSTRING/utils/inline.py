@@ -8,12 +8,12 @@ keyboard = InlineKeyboardMarkup(
         [InlineKeyboardButton(text="⦿ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ⦿", callback_data="gensession")
                 ],
                 [
-                    InlineKeyboardButton("⦿ sᴜᴘᴘᴏʀᴛ ⦿", url="https://t.me/PWSTUDENTSSS"),
-                    InlineKeyboardButton("⦿ ᴜᴘᴅᴀᴛᴇ ⦿", url="https://t.me/AB4OUT_ME")
+                    InlineKeyboardButton("⦿ sᴜᴘᴘᴏʀᴛ ⦿", url="https://t.me/YourSexyGc"),
+                    InlineKeyboardButton("⦿ ᴜᴘᴅᴀᴛᴇ ⦿", url="https://t.me/PikaBotUpdates")
                 ],
                 [
                     
-                    InlineKeyboardButton("⦿ ᴏᴡɴᴇʀ ⦿", url="https://t.me/CRY4DED_FR"
+                    InlineKeyboardButton("⦿ ᴏᴡɴᴇʀ ⦿", url="https://t.me/CertifiedSexer"
             ),
         ],
     ]
